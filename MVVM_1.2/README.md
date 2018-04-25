@@ -33,7 +33,7 @@ yarn add webpack webpack-cli
 * development 模式的配置文件，用于定义 webpack-dev-server 等等
 * production 模式的配置文件，用于定义 UglifyJSPlugin，sourcemaps等等
 
-当时在 webpack4 中，这两个文件可以省略了，一句命令行就可以替代。
+在 webpack4 中，这两个文件可以省略了，一句命令行就可以替代。
 
 ```
 "scripts": {
