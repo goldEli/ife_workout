@@ -1,0 +1,23 @@
+{
+  "name": "MVVM_1.2",
+  "version": "1.0.0",
+  "description": "## 任务描述",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha __test__",
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [],
+  "author": "miaoyu <miaoyu2009@qq.com> (https://github.com/goldEli)",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "mocha": "^5.1.1",
+    "san": "^3.5.6",
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.15"
+  }
+}
